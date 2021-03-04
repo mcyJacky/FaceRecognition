@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="020ef4c9-2db2-4594-9260-2f690eb19fe5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ML_upload/.idea/ML_upload.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML_upload/.idea/ML_upload.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML_upload/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML_upload/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML_upload/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML_upload/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML_upload/Naive_Bayes/.idea/Naive_Bayes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ML_upload/Naive_Bayes/.idea/Naive_Bayes.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1898494662">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JPG" value="1" />
+          <entry key="ipynb" value="3" />
+          <entry key="jpg" value="3" />
+          <entry key="py" value="57" />
+          <entry key="pyi" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="3" />
+          <entry key="Image" value="4" />
+          <entry key="Python" value="57" />
+          <entry key="PythonStub" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="51" />
+          <entry key="py" value="13786" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="Python" value="13786" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1412270468">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ipynb" value="1" />
+          <entry key="jpg" value="7" />
+          <entry key="md" value="2" />
+          <entry key="py" value="150" />
+          <entry key="pyi" value="3" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="1" />
+          <entry key="Image" value="7" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="150" />
+          <entry key="PythonStub" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="17" />
+          <entry key="py" value="4376" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="Python" value="4376" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1432745990">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-144994354">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FaceRecognize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nets/facenet/inceptionResNet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3795">
+              <caret line="172" column="8" selection-start-line="172" selection-start-column="8" selection-end-line="172" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Process</find>
+      <find>Am_softmax</find>
+      <find>Backbone·</find>
+      <find>BatchNorm1d</find>
+      <find>SEModule</find>
+      <find>Sigmoid</find>
+      <find>load_facebank</find>
+      <find>results</find>
+      <find>draw_box_name</find>
+      <find>prepare_facebank</find>
+      <find>trans</find>
+      <find>Arcface</find>
+      <find>visualize</find>
+      <find>batch_size</find>
+      <find>test</find>
+      <find>loss_weight</find>
+      <find>label</find>
+      <find>nB</find>
+      <find>separate_bn_paras</find>
+      <find>bcolz</find>
+      <find>optim</find>
+      <find>loader</find>
+      <find>step</find>
+      <find>get_train_loader</find>
+      <find>DataLoader</find>
+      <find>load_state</find>
+      <find>gen_plot</find>
+      <find>get_val_pair</find>
+      <find>evaluate</find>
+      <find>右节点损失</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ML_upload" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/nets/retinaface/retinaface.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/nets/retinaface/layers.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/nets/mtcnn/detector_face.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/nets/mtcnn/first_stage.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/nets/mtcnn/get_nets.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/nets/facenet/inceptionResNet.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/utils/img_utils.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/utils/visualization_utils.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/FaceRecognize.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/nets/retinaface/config.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/nets/retinaface/retinafaceEx.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/utils/anchors.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/detector_mtcnn.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/nets/retinaface/mobilenet025.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/detector_retinaface.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/utils/box_utils.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/detect_face.py" />
+        <option value="$PROJECT_DIR$/face_recognize.ipynb" />
+        <option value="$PROJECT_DIR$/nets/mtcnn/first_stage.py" />
+        <option value="$PROJECT_DIR$/detector.py" />
+        <option value="$PROJECT_DIR$/nets/retinaface/config.py" />
+        <option value="$PROJECT_DIR$/nets/retinaface/mobilenet025.py" />
+        <option value="$PROJECT_DIR$/utils/anchors.py" />
+        <option value="$PROJECT_DIR$/nets/retinaface/layers.py" />
+        <option value="$PROJECT_DIR$/nets/retinaface/retinaface.py" />
+        <option value="$PROJECT_DIR$/detecor_retinaface.py" />
+        <option value="$PROJECT_DIR$/nets/mtcnn/get_nets.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/keras-face-recognition/face_recognize.py" />
+        <option value="$PROJECT_DIR$/nets/retinaface/retinafaceEx.py" />
+        <option value="$PROJECT_DIR$/utils/visualization_utils.py" />
+        <option value="$PROJECT_DIR$/nets/facenet/inceptionResNet.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/utils/box_utils.py" />
+        <option value="$PROJECT_DIR$/nets/mtcnn/detector_face.py" />
+        <option value="$PROJECT_DIR$/utils/img_utils.py" />
+        <option value="$PROJECT_DIR$/FaceRecognize.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/arcface-pytorch/test.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/arcface-pytorch/models/resnet.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/mtcnn.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/mtcnn_pytorch/src/get_nets.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/take_pic.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/face_verify.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/utils.py" />
+        <option value="$PROJECT_DIR$/../softmax_variants/train_mnist_softmax.py" />
+        <option value="$PROJECT_DIR$/../softmax_variants/train_mnist_LMCL.py" />
+        <option value="$PROJECT_DIR$/../softmax_variants/model_utils.py" />
+        <option value="$PROJECT_DIR$/../softmax_variants/train_mnist_center_loss.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/prepare_data.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/test.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/Learner.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/data/data_pipe.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/config.py" />
+        <option value="$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/model.py" />
+        <option value="$PROJECT_DIR$/../ML_upload/AdaBoost/adaboost.py" />
+        <option value="$PROJECT_DIR$/../ML_upload/GBDT/GBDT/gbdt.py" />
+        <option value="$PROJECT_DIR$/../ML_upload/GBDT/example.py" />
+        <option value="$PROJECT_DIR$/detector_mtcnn.py" />
+        <option value="$PROJECT_DIR$/detector_retinaface.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FaceRecognition_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceRecognition_proj" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/04OpenSrc/faceRecognition_pytorch/nets/retinaface/config.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\04OpenSrc\faceRecognition_pytorch\nets\mtcnn" />
+      <recent name="E:\04OpenSrc\faceRecognition_pytorch\model_data\facenet" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.FaceRecognize">
+    <configuration name="FaceRecognize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceRecgnitonProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceRecognize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="decision_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML_upload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ML_upload/GBDT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ML_upload/GBDT/decision_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detector_mtcnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceRecgnitonProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detector_mtcnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detector_retinaface" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceRecgnitonProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detector_retinaface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python">
+      <module name="ML_upload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ML_upload/GBDT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ML_upload/GBDT/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gbdt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML_upload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ML_upload/GBDT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ML_upload/GBDT/gbdt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.example" />
+      <item itemvalue="Python.gbdt" />
+      <item itemvalue="Python.decision_tree" />
+      <item itemvalue="Python.detector_mtcnn" />
+      <item itemvalue="Python.detector_retinaface" />
+      <item itemvalue="Python.FaceRecognize" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FaceRecognize" />
+        <item itemvalue="Python.detector_retinaface" />
+        <item itemvalue="Python.detector_mtcnn" />
+        <item itemvalue="Python.decision_tree" />
+        <item itemvalue="Python.gbdt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="020ef4c9-2db2-4594-9260-2f690eb19fe5" name="Default Changelist" comment="" />
+      <created>1605424033896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605424033896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1849315" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29098806" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39413682" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30510315" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32681867" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/prepare_data.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/test.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../ML_upload/AdaBoost/adaboost.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../ML_upload/GBDT/decision_tree.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../ML_upload/GBDT/decision_tree.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../ML_upload/GBDT/decision_tree.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../ML_upload/GBDT/decision_tree.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../ML_upload/GBDT/decision_tree.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../ML_upload/GBDT/decision_tree.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../ML_upload/GBDT/decision_tree.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../ML_upload/GBDT/loss_function.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="data[f_prev_name]" />
+        <watch expression="trees[iter].leaf_nodes" />
+        <watch expression="data" />
+        <watch expression="data" />
+        <watch expression="data" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>len(train_loader) // batch_size</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>loss.data[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/site-packages/torchvision/transforms/functional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-719">
+          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/site-packages/torchvision/transforms/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="100" column="22" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/infer_on_video.py" />
+    <entry file="file://$PROJECT_DIR$/../softmax_variants/README.md" />
+    <entry file="file://$PROJECT_DIR$/../softmax_variants/train_mnist_LGM.py" />
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/site-packages/torchvision/datasets/imagenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/site-packages/torchvision/datasets/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/site-packages/torchvision/datasets/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="62" column="27" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/site-packages/torch/optim/lr_scheduler.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../softmax_variants/train_mnist_softmax.py" />
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/site-packages/torch/nn/modules/conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="322" column="8" selection-start-line="322" selection-start-column="8" selection-end-line="322" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../softmax_variants/train_mnist_LMCL.py" />
+    <entry file="file://$PROJECT_DIR$/../softmax_variants/images/center_loss_epoch=100.jpg" />
+    <entry file="file://$PROJECT_DIR$/../softmax_variants/images/coco_loss_epoch=100.jpg" />
+    <entry file="file://$PROJECT_DIR$/../softmax_variants/model_utils.py" />
+    <entry file="file://$PROJECT_DIR$/../softmax_variants/train_mnist_center_loss.py" />
+    <entry file="file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/face_verify.py" />
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/site-packages/torch/nn/modules/loss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="908" column="8" selection-start-line="908" selection-start-column="8" selection-end-line="908" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/pathlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="898" selection-start-line="898" selection-end-line="898" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/site-packages/torch/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="1647" column="9" lean-forward="true" selection-start-line="1647" selection-start-column="9" selection-end-line="1647" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/site-packages/torchvision/datasets/folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="203" column="8" selection-start-line="203" selection-start-column="8" selection-end-line="203" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1348116891/cv2/cv2/DescriptorMatcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="250" column="8" selection-start-line="250" selection-start-column="8" selection-end-line="250" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/data/data_pipe.py" />
+    <entry file="file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/prepare_data.py" />
+    <entry file="file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/model.py" />
+    <entry file="file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/train.py" />
+    <entry file="file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/test.py" />
+    <entry file="file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/verifacation.py" />
+    <entry file="file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/utils.py" />
+    <entry file="file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/config.py" />
+    <entry file="file://$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch/Learner.py" />
+    <entry file="file://$PROJECT_DIR$/../ML_upload/DecisionTree/storageTree.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ML_upload/DecisionTree/lenses.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ML_upload/DecisionTree/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="206" column="4" selection-start-line="206" selection-start-column="4" selection-end-line="206" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="3076" column="6" selection-start-line="3076" selection-start-column="6" selection-end-line="3076" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ML_upload/AdaBoost/adaboost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ML_upload/GBDT/GBDT/decision_tree.py" />
+    <entry file="file://$PROJECT_DIR$/../ML_upload/GBDT/GBDT/gbdt.py" />
+    <entry file="file://$PROJECT_DIR$/../ML_upload/GBDT/decision_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="72" column="82" selection-start-line="72" selection-start-column="82" selection-end-line="72" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ML_upload/GBDT/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/pytorch/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="2775" selection-start-line="2775" selection-end-line="2775" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ML_upload/GBDT/loss_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#63#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ML_upload/GBDT/gbdt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nets/mtcnn/detector_face.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1220">
+          <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/visualization_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detector_mtcnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detector_retinaface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nets/retinaface/retinafaceEx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-893">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceRecognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nets/facenet/inceptionResNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3795">
+          <caret line="172" column="8" selection-start-line="172" selection-start-column="8" selection-end-line="172" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

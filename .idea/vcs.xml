@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../FaceRecognition/InsightFace_Pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FaceRecognition/arcface-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FaceRecognition/keras-face-recognition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../softmax_variants" vcs="Git" />
+    <mapping directory="E:/projects/ML_upload" vcs="Git" />
+  </component>
+</project>
