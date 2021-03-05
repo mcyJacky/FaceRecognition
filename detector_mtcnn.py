@@ -5,13 +5,10 @@ import torch
 
 if __name__ == '__main__':
     print(torch.__version__) #1.4.0
-    # print(torch.FloatTensor([[1,2,3]], requires_grad=True))
-    # x = torch.tensor([[1., -1.], [1., 1.]], requires_grad=True)
-    # print(x)
     mtcnnModel = MtcnnModel()
 
     print("Predict start>>>>>")
-    img = Image.open('face_dataset/test.jpg')
+    img = Image.open('face_dataset/office4.jpg')
     print(img.size) #(w,h)
     # bounding_boxes, landmarks = detect_faces(img)
     bounding_boxes, landmarks = mtcnnModel.detectFace(img)
