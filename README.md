@@ -34,3 +34,4 @@ python detector_retinaface.py
 ```
 python FaceRecognize.py
 ```
+![image](result/hjk.png)
