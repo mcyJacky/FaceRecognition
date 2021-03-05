@@ -19,12 +19,14 @@ Face recognition with mtcnn/retinaface/facenet
 # 对一张测试图片进行人脸检测如下（或使用pycharm运行）
 python detector_mtcnn.py
 ```
+![image](result/mtcnn.png)
 
 2.Retinaface算法进行人脸检测
 ```
 # 对一张测试图片进行人脸检测如下（或使用pycharm运行）
 python detector_retinaface.py
 ```
+![image](result/retinaface.png)
 
 ### 人脸识别步骤
 1.将识别图片添加至./face_dataset/datset文件夹中作为人脸库
